@@ -11,7 +11,7 @@
 
 - **Linguagens de Programação**: Java, Python, C, JavaScript
 - **Frameworks e Bibliotecas**:
-  - Java/Spring (Spring Boot, JPA, Spring Validator, Spring Security, Spring MVC, JUnit)
+  - Java/Spring (Spring Boot, JPA, Spring Validator, Spring Security, Spring MVC, JUnit, ModelMapper)
   - Angular
   - Bootstrap 5
 - **Tecnologias Web**: HTML5, CSS3, JavaScript
