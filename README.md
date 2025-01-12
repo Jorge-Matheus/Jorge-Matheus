@@ -9,12 +9,12 @@
 
 ## Minhas Habilidades
 
-- **Linguagens de Programação**: Java, Python, C
+- **Linguagens de Programação**: Java, Python, C, JavaScript
 - **Frameworks e Bibliotecas**:
   - Java/Spring (Spring Boot, JPA, Spring Validator, Spring Security)
   - Angular
   - Bootstrap 5
-- **Tecnologias Web**: HTML5, CSS3
+- **Tecnologias Web**: HTML5, CSS3, JavaScript
 - **Banco de Dados**: MySQL, PostgreSQL, MongoDB
 - **Ferramentas e Tecnologias**: Docker
 
