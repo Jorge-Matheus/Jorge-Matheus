@@ -1,4 +1,4 @@
-# Olá, eu sou Jorge! 👋
+# Olá, eu sou o Jorge! 👋
 
 ## Sobre Mim
 
