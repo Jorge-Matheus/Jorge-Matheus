@@ -9,10 +9,6 @@
 
 ## Minhas Habilidades
 
-
-](
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-)
 - **Linguagens de Programação**: Java, Python, C, JavaScript
 - **Frameworks e Bibliotecas**:
   - Java/Spring (Spring Boot, JPA, Spring Validator, Spring Security, Spring MVC, JUnit, ModelMapper, Swagger)
