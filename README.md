@@ -16,7 +16,7 @@
   - Bootstrap 5
 - **Tecnologias Web**: HTML5, CSS3, JavaScript
 - **Banco de Dados**: MySQL, PostgreSQL, MongoDB
-- **Ferramentas e Tecnologias**: Docker
+- **Ferramentas e Tecnologias**: Docker, JWT
 
 ## Projetos Destacados
 
