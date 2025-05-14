@@ -18,11 +18,6 @@
 - **Banco de Dados**: MySQL, PostgreSQL, MongoDB
 - **Ferramentas e Tecnologias**: Docker, JWT
 
-## Projetos Destacados
-
-- [Nome do Projeto 1](link para o repositório): Descrição breve do projeto e suas funcionalidades principais.
-- [Nome do Projeto 2](link para o repositório): Descrição breve do projeto e suas funcionalidades principais.
-
 ## Contato
 
 - 🌐 [Portfólio/Website](link para o seu site ou portfólio)
