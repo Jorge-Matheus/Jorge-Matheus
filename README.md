@@ -9,7 +9,7 @@
 
 ## Minhas Habilidades
 
-- **Linguagens de Programação**: Java, Python, C, JavaScript
+- **Linguagens de Programação**: Java, Python, C, JavaScript, TypeScript
 - **Frameworks e Bibliotecas**:
   - Java/Spring (Spring Boot, JPA, Spring Validator, Spring Security, Spring MVC, JUnit, ModelMapper, Swagger)
   - Angular
