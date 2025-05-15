@@ -4,7 +4,7 @@
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na UniCesumar (EAD)
 - 💻 Apaixonado por tecnologia, programação e aprendizado contínuo
-- 🌱 Atualmente estudando novas tecnologias e linguagens de programação
+- 🌱 Atualmente estudando novas tecnologias
 - 🎯 Objetivo: Tornar-me um desenvolvedor full-stack e contribuir com projetos inovadores
 
 ## Minhas Habilidades
