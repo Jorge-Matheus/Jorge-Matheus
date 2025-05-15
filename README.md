@@ -20,7 +20,6 @@
 
 ## Contato
 
-- 🌐 [Portfólio/Website](link para o seu site ou portfólio)
 - 📧 jorge.cunha1233@gmail.com
 - 💼 [LinkedIn]()
 
